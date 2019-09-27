@@ -26,7 +26,7 @@ The loss-graph can be seen as follows:
 
 The error rate can be seen as follows:
 
-![ErrorRate](error_rate.png)
+![ErrorRate](error_rate.PNG)
 
 The learning rate can be seen as follows:
 
